@@ -70,6 +70,8 @@ Q13. Determine the top 3 most ordered pizza types based on revenue for each pizz
 
 - **Revenue Contribution:** Classic pizza dominates the total revenue with $ 2,20,053.10, accounting for a contribution of 26.91%.
 
+✨ These insights can help in understanding customer preferences, identifying the most popular pizza types, and analyzing sales trends, providing a comprehensive view of the business's performance during the specified period.
+
 ## Contributors
 - [@Tarunsharma-20](https://github.com/Tarunsharma-20)
 
